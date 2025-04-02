@@ -1,0 +1,77 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git-autoconfig.configList": [
+        {
+            "user.email": "pvkris007@gmail.com",
+            "user.name": "Vamshi"
+        },
+        {},
+        {
+            "user.email": "vamshi.krishna1@walmart.com",
+            "user.name": "Vamshi Krishna"
+        }
+    ],
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.colorDecoratorsActivatedOn": "hover",
+    "editor.linkedEditing": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmPasteNative": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "sync.quietSync": false,
+    "[graphql]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDelete": false,
+    "tabnine.experimentalAutoImports": true,
+    "gitlens.graph.layout": "editor",
+    "editor.fontSize": 16,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.activityBar.location": "top",
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "settingsSync.ignoredSettings": [
+        "prettier.singleQuote"
+    ],
+    "workbench.settings.applyToAllProfiles": [
+        "prettier.singleQuote",
+        "prettier.jsxSingleQuote"
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "terminal.integrated.env.osx": {},
+    "console-ninja.featureSet": "Community",
+    "workbench.editor.empty.hint": "hidden",
+    "remote.SSH.remotePlatform": {
+        "sandbox.mkr8vn.csb": "linux"
+    },
+    "@azure.argTenant": "3cbcc3d3-094d-4006-9849-0d11d61f484d",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    }
+}
